@@ -55,12 +55,6 @@ I am a passionate Computer Science student with a strong interest in application
   <a href="https://dev.to/adarshpandey" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="devto logo"  />
   </a>
-  <a href="https://discordapp.com/users/1174065649002237993" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@AdarshVijaykumarPandey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"  />
-  </a>
 </div>
 
 ###
