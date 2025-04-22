@@ -5,113 +5,110 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Hi+I+am+Adarsh+Pandey)](https://git.io/typing-svg)
 
 ### About Me
-I am a passionate Computer Science student with a strong interest in application development and Java programming. I love exploring new technologies and applying them to solve real-world problems. Currently, I'm honing my skills in Flutter and Firebase to create robust mobile applications.
+I'm a backend-focused software engineer in the making — passionate about clean architecture, system design, and building scalable apps. Currently diving deep into **Spring**, **Go**, and **Flutter**, and building full-stack projects with real-world impact. I’m obsessed with performance, structure, and pushing the limits of what I can build.
 ###
+<br>
 
-<img align="right" height="165" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif"  />
+<img align="right" height="193" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="49" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="35" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="49" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="35" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="49" alt="dart logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="35" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="49" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="49" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="49" alt="hibernate logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="35" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="49" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="49" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="35" alt="neovim logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="49" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="49" alt="supabase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="49" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="35" alt="maven logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="49" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="49" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="49" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="49" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="49" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="49" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="49" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="49" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="49" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="49" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="49" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="49" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="49" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="49" alt="sass logo"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <a href="https://linkedin.com/in/adarshpandey18" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
-  </a>
   <a href="mailto:itsadarshvijaypandey@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/adarshpandey18" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/adarshvjpandey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
   <a href="https://dev.to/adarshpandey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="devto logo"  />
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=@isuredied&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
 
 ###
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshpandey18/adarshpandey18/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarshpandey18/adarshpandey18/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adarshpandey18/adarshpandey18/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+<br>
+<br>
 <details>
-  <summary><samp><b>&#9776; See More</b></samp></summary>
-  </summary>
-  <br>
-  <br>
-
-<!-- <div align="center">
-  <img align="left" height="150"   src="https://leetcard.jacoblin.cool/adarshpandey18?theme=dark&font=Noto%20Sans%20Avestan" alt = "Leetcode Stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshpandey18&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <summary><samp> See More</samp> </summary>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshpandey18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=adarshpandey18&theme=nord&column=4&row=2&margin-w=15&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/adarshpandey18/adarshpandey18/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h4 align="left">“Never. I don’t ever give up. I’d have to be dead or completely incapacitated. For my part, I will never give up, and I mean never.”</h4>
-
-###
-
-<p align="right">-Elon Musk</p>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/adarshpandey18/count.svg?"  />
-</div> -->
-  <!-- Github Trophy -->
-  <div align="center">
-  <table>
-  <tr>
-    
-  <td> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adarshpandey18&theme=github-dark-blue&fire=85C6EB" alt="GitHub Streak" /></a>
-</a></td>
-  </tr>
-  </table>
-  </div>
-
-  <!-- Github Stats -->
-  <div align="center">
-  <table>
-  <tr>
-  <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adarshpandey18&count_private=true&show_icons=true&border_radius=20&include_all_commits=true&line_height=21&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
-  <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshpandey18&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
-  </tr>
-  </table>
-  </div>
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adarshpandey18.adarshpandey18&"  />
+</div>
 
 ###
-</details>
 
+</details>
