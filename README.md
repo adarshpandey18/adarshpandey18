@@ -62,7 +62,6 @@ I'm a backend-focused software engineer in the making — passionate about clean
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="49" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="49" alt="sass logo"  />
 </div>
 
 ###
