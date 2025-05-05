@@ -1,4 +1,4 @@
-<img src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7">
 
 ###
 
@@ -92,15 +92,6 @@ I'm a backend-focused software engineer in the making — passionate about clean
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adarshpandey18/adarshpandey18/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-<br>
-<br>
-<details>
-  <summary><samp> See More</samp> </summary>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshpandey18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=adarshpandey18&theme=nord&column=4&row=2&margin-w=15&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
 
@@ -109,5 +100,3 @@ I'm a backend-focused software engineer in the making — passionate about clean
 </div>
 
 ###
-
-</details>
