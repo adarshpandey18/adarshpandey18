@@ -1,10 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7">
 
 ###
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Hi+I+am+Adarsh+Pandey)](https://git.io/typing-svg)
-
-### About Me
 I'm a backend-focused software engineer in the making — passionate about clean architecture, system design, and building scalable apps. Currently diving deep into **Spring**, **Go**, and **Flutter**, and building full-stack projects with real-world impact. I’m obsessed with performance, structure, and pushing the limits of what I can build.
 ###
 <br>
