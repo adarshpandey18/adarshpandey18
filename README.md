@@ -35,31 +35,9 @@ Passionate about clean architecture, system design, and building scalable, real-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="49" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="49" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="49" alt="intellijidea logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="49" alt="neovim logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="49" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="49" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="49" alt="apachemaven logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="49" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="49" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="49" alt="git logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="49" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="49" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="49" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="49" alt="tailwindcss logo"  />
   <img width="12" />
 </div>
 
