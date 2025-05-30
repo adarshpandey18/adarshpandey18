@@ -1,10 +1,11 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" >
 
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=1000&lines=Hi+I+am+Adarsh+Pandey)](https://git.io/typing-svg)
 
-I'm a backend-focused software engineer in the making — passionate about clean architecture, system design, and building scalable apps. Currently diving deep into **Spring**, **Go**, and **Flutter**, and building full-stack projects with real-world impact. I’m obsessed with performance, structure, and pushing the limits of what I can build.
-###
+**Backend-focused Software Engineer in the making** <br>
+Passionate about clean architecture, system design, and building scalable, real-world apps.
+> Currently working with Spring, Go, and Flutter, and obsessed with performance, structure, and pushing technical boundaries.
 <br>
 
 <img align="right" height="193" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif"  />
@@ -60,17 +61,6 @@ I'm a backend-focused software engineer in the making — passionate about clean
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="49" alt="tailwindcss logo"  />
   <img width="12" />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="mailto:itsadarshvijaypandey@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=@isuredied&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
 
 ###
