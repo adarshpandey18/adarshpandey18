@@ -29,7 +29,8 @@ Passionate about clean architecture, system design, and building scalable, real-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
   <img width="12" />
-  <img src="htt
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+</div>
 
 ###
 <!--
