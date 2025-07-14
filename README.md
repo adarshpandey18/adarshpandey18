@@ -8,38 +8,28 @@ Passionate about clean architecture, system design, and building scalable, real-
 > Currently working with Spring, Go, and Flutter, and obsessed with performance, structure, and pushing technical boundaries.
 <br>
 
-<img align="right" height="193" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif"  />
+<img align="right" height="100" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif"  />
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="49" alt="java logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="49" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="49" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="49" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="49" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="49" alt="hibernate logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="49" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="49" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="49" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="49" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="49" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="49" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="49" alt="linux logo"  />
-  <img width="12" />
-</div>
+  <img src="htt
 
 ###
 <!--
