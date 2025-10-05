@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=1000&lines=Hi+I+am+Adarsh+Pandey)](https://git.io/typing-svg)
 
 **Backend-focused Software Engineer in the making** <br>
-Passionate about clean architecture, system design, and building scalable, real-world apps.
+Passionate about system design, and building scalable, real-world apps.
 > Currently working with Spring, Go, and Flutter, and obsessed with performance, structure, and pushing technical boundaries.
 <br>
 
