@@ -5,7 +5,7 @@
 
 **Backend-focused Software Engineer in the making** <br>
 Passionate about system design, and building scalable, real-world apps.
-> Currently working with Spring, Go, and Flutter, and obsessed with performance, structure, and pushing technical boundaries.
+> Currently working with Spring Boot, Go, and Flutter, and obsessed with performance, structure, and pushing technical boundaries.
 <br>
 
 <img align="right" height="100" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif"  />
